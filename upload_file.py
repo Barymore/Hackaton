@@ -1,5 +1,4 @@
-import json
-import requests
+import json, requests
 
 filename = input('Путь к файлу json: ')
 list_product = []
